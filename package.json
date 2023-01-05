@@ -1,0 +1,21 @@
+{
+  "name": "rlyxren-color-theme",
+  "displayName": "Rlyxren Color Theme",
+  "description": "A cool looking theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Rlyxren",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Rlyxren-color-theme.json"
+      }
+    ]
+  }
+}
