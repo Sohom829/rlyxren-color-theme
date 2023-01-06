@@ -3,6 +3,7 @@
 A cool looking color theme for Visual Studio Code.
 
 ## Screenshots
-[!SCREENSHOT]()
+
+![SCREENSHOT](/images/code.png)
 
 **Enjoy!**
