@@ -9,6 +9,9 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "url": "https://github.com/Sohom829/rlyxren-color-theme"
+  },
   "contributes": {
     "themes": [
       {
