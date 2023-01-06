@@ -46,7 +46,7 @@
       "scope": "variable",
       "settings": {
         "fontStyle": " italic   ",
-        "foreground": "#05ff22"
+        "foreground": "#62db70"
       }
     },
     {
@@ -308,14 +308,14 @@
       "name": "markup.underline",
       "scope": "markup.underline",
       "settings": {
-        "fontStyle": " underline"
+        "fontStyle": "underline"
       }
     },
     {
       "name": "markup.underline.link",
       "scope": "markup.underline.link",
       "settings": {
-        "fontStyle": " underline italic",
+        "fontStyle": "underline italic",
         "foreground": "#00A8C6"
       }
     },
@@ -323,7 +323,7 @@
       "name": "markup.heading",
       "scope": "markup.heading",
       "settings": {
-        "fontStyle": " bold",
+        "fontStyle": "bold",
         "foreground": "#FFFFFF"
       }
     },
