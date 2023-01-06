@@ -9,13 +9,18 @@
   "categories": [
     "Themes"
   ],
+  "author": {
+    "email": "rafiqulislamsadik31@gmail.com",
+    "name": "Mohtasim Alam Sohom",
+    "url": "https://github.com/Sohom829"
+  },
   "repository": {
     "url": "https://github.com/Sohom829/rlyxren-color-theme"
   },
   "contributes": {
     "themes": [
       {
-        "label": "Rlyxren",
+        "label": "Rlyxren Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Rlyxren-color-theme.json"
       }
